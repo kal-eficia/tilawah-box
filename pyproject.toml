@@ -7,7 +7,7 @@ name = "tilawah-box"
 version = "1.0.0"
 description = "A screen-free Quran player for the home, built on a Raspberry Pi: a dial, a few buttons and NFC cards for children."
 readme = "README.md"
-requires-python = ">=3.9"
+requires-python = ">=3.10"
 license = { text = "MIT" }
 authors = [{ name = "Kalid Nur" }]
 keywords = ["quran", "raspberry-pi", "audio", "islam", "kids", "hifz"]

@@ -1,6 +1,7 @@
 <p align="center"><img src=".github/banner.png" alt="Tilawah Box" width="100%"></p>
 
 <p align="center">
+  <a href="https://github.com/kal-eficia/tilawah-box/actions/workflows/tests.yml"><img src="https://github.com/kal-eficia/tilawah-box/actions/workflows/tests.yml/badge.svg" alt="tests"></a>
   <img src="https://img.shields.io/badge/runs%20on-Raspberry%20Pi-0c1a30?style=flat-square" alt="Raspberry Pi">
   <img src="https://img.shields.io/badge/screen-none-0f8b8d?style=flat-square" alt="No screen">
   <img src="https://img.shields.io/badge/works-offline-0c1a30?style=flat-square" alt="Offline">
