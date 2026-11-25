@@ -1,0 +1,26 @@
+{
+  "library": "~/tilawah-library",
+  "reciters": ["alafasy", "husary-muallim", "minshawi"],
+  "start_surah": 1,
+  "volume": 55,
+  "max_volume": 80,
+  "timezone": "Europe/London",
+
+  "pins": { "dial_a": 17, "dial_b": 27, "dial_press": 22, "reciter": 5, "hifz": 6, "vol_down": 13, "vol_up": 19 },
+
+  "cards": {
+    "584190214312": { "surah": "fatihah" },
+    "584190214313": { "surah": "yasin" },
+    "584190214314": { "surah": "mulk" },
+    "584190214315": { "surah": 2, "from": 255, "to": 255 },
+    "584190214316": { "surah": "ikhlas" }
+  },
+
+  "routines": [
+    { "days": "fri", "time": "07:30", "surah": "kahf", "label": "Al-Kahf on Friday" },
+    { "days": "daily", "time": "19:45", "surah": "mulk", "reciter": "minshawi", "label": "Before bed" },
+    { "days": "daily", "time": "20:30", "action": "stop" }
+  ],
+
+  "quiet_hours": { "from": "20:30", "to": "06:30", "volume": 25 }
+}
